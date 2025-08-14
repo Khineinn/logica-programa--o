@@ -6,4 +6,3 @@ curso de logica de programação em python
 - Aula 2
 - Aula 3
 - Aula 4
-- 
